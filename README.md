@@ -15,7 +15,7 @@ We experiment with the different concepts of database tuning and the different t
 <li> Optimizing the schema. </li>
 <li> Optimizing the memory requirements. </li>
 <li> Optimizing the queries. </li>
-<li> Testing the performace of MySQL vs MongoDB.</li>
+<li> Testing the performance of MySQL vs MongoDB.</li>
 <ul>
 
 ## 📌 Database Schema
