@@ -30,7 +30,7 @@ We experiment with the different concepts of database tuning and the different t
 
 ### MySQL vs MongoDB Performance
 
-![mongo-vs-mysql](./images/Figure_1.png)
+![mongo-vs-mysql](./images/Figure_1.PNG)
 
 ### Effects of combine all optimizations 
 
